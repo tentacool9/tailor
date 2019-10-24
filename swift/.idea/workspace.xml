@@ -36,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.swiftlistener">
+  <component name="RunManager" selected="Python.messages_server">
     <configuration name="machinelearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swift" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.swiftlistener" />
         <item itemvalue="Python.messages_server" />
+        <item itemvalue="Python.swiftlistener" />
         <item itemvalue="Python.machinelearn" />
       </list>
     </recent_temporary>
