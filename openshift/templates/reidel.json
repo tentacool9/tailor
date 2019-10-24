@@ -230,14 +230,6 @@
           }
         }
       }
-    },
-    {
-      "kind": "pod",
-      "apiVersion": "v1",
-      "metadata":
-      {
-        "name": "${NAME}-test-pod"
-      }
     }
   ],
   "parameters": [
